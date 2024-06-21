@@ -1,0 +1,53 @@
+.outer{
+    border:10px solid blue;
+    width:1300px;
+    height:1900px;
+    margin-left:60px;
+}
+.line{
+    border-bottom:10px solid red;
+    
+}
+.headline{
+    text-align:end;
+}
+.image{
+    height:300px;
+    width:1300px;
+}
+.parent{
+    display:flex;
+    flex-direction: row;
+}
+.me{
+    border:5px solid yellow;
+    height:220px;
+    width:400px;
+    margin-top: 20px;
+    margin-left:20px;
+    text-align: justify;
+}
+.imageparent{
+    display:flex;
+    flex-direction: row;
+}
+.image1{
+    height:100px;
+    width:200px;
+}
+.lastbox{
+    display:flex;
+    border:5px solid pink;
+    width:600px;
+    height:400px;
+    margin-top:-365px;
+    margin-left:30px;
+}
+.footer{
+    display:flex;
+    margin-left:20px;
+    margin-top:46px;
+}
+
+
+    
